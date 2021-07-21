@@ -3,7 +3,7 @@
 ## Welcome to my GitHub profile!
 ### I am as aspiring web developer and electronics enthusiast! I also enjoy explroing data science and competitive coding!
 
-### www.sidhaantthakker.com
+### <a href="https://www.sidhaantthakker.com">
 
 # Web Development
 ## Tools & Skills
