@@ -12,7 +12,7 @@
 • 👓 NextJS <br>
 • ⚙️ Arduino <br>
 
-<img src="/images/my-photo.jpg">
+<img src="/images/my-photo.jpg" height= "300px">
 
 
 
