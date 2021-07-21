@@ -12,6 +12,8 @@
 • 👓 NextJS <br>
 • ⚙️ Arduino <br>
 
+<img src="/images/my-photo.jpg">
+
 
 
 ### Developer Spotlight! 
