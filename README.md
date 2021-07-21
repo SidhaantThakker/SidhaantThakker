@@ -13,7 +13,7 @@
 ![](/images/angular-icon.svg)
 
 ### • Completed Projects
-#### 1. Product Management App - <a href=https://protected-dawn-04416.herokuapp.com">ProdBox</a>
+#### 1. Product Management App - <a href= "https://protected-dawn-04416.herokuapp.com">ProdBox</a>
 
 ### • Projects Underway
 #### 1. Medal Storage Application
