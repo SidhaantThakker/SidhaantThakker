@@ -27,7 +27,7 @@ Just me and few friends you might like to check out! <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open>
-<sumamry> Web Development</summary>
+<summary> Web Development</summary>
 ## Web Development
 ### • Tools & Skills
 ![](/images/mongodb-icon.svg)
