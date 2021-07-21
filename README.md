@@ -26,6 +26,8 @@ Just me and few friends you might like to check out! <br>
 ## My Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
+<details open>
+<sumamry> Web Development</summary>
 ## Web Development
 ### • Tools & Skills
 ![](/images/mongodb-icon.svg)
@@ -36,6 +38,7 @@ Just me and few friends you might like to check out! <br>
 ### • Projects
 #### 1. Product Management App - <a href= "https://protected-dawn-04416.herokuapp.com">ProdBox</a>
 #### 2. Quiz Application - <a href="https://sidhaantthakker.com/QuizProject/index.html">QuizMaster</a>
+</details>
 
 ## Competitive Coding
 ### • Tools & Skills
