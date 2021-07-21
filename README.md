@@ -5,11 +5,11 @@ I am as aspiring web developer adn electronics enthusiast! I also enjoy explroin
 
 ## Web Development
 ### Tools :
-![MongoDB Logo](/images/mongodb-icon.svg)
-![ExpressJS Logo](/images/express-icon.svg)
-![React Logo](/images/react-icon.svg)
-![NodeJS Logo](/images/nodejs-icon.svg)
-![Angular Logo](/images/angualr-icon.svg)
+![](/images/mongodb-icon.svg)
+![](/images/expressjs-icon.svg)
+![](/images/reactjs-icon.svg)
+![](/images/nodejs-icon.svg)
+![](/images/angular-icon.svg)
 ## Competitive Coding
 
 ## Data Science
