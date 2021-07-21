@@ -38,6 +38,6 @@
 
 
 ## My Github Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 
 
