@@ -26,7 +26,7 @@ Just me and few friends you might like to check out! <br>
 ## My Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
-<details open>
+<details>
 <summary> Web Development</summary>
 <br>
 ## Web Development
