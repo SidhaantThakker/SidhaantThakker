@@ -3,10 +3,10 @@
 ### Welcome to my GitHub profile!
 
 ### I am interested in - 
-• 🌐 Web Development
-• 🤖 Electronics
-• 🖥️ Competitive Programming
-• 📊 Data Science
+• 🌐 Web Development <br>
+• 🤖 Electronics <br>
+• 🖥️ Competitive Programming <br>
+• 📊 Data Science <br>
 
 
 #### You can find my website here - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
