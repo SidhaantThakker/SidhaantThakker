@@ -1,10 +1,10 @@
-## Hello there!
+# Hello there!
 
-### Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 I am as aspiring web developer adn electronics enthusiast! I also enjoy explroing data science and competitive coding!
 
-## Web Development
-### Tools :
+# Web Development
+## Tools :
 ![](/images/mongodb-icon.svg)
 ![](/images/reactjs-icon.svg)
 ![](/images/nodejs-icon.svg)
