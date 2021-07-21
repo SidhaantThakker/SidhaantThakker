@@ -28,6 +28,7 @@ Just me and few friends you might like to check out! <br>
 
 <details open>
 <summary> Web Development</summary>
+<br>
 ## Web Development
 ### • Tools & Skills
 ![](/images/mongodb-icon.svg)
@@ -38,6 +39,7 @@ Just me and few friends you might like to check out! <br>
 ### • Projects
 #### 1. Product Management App - <a href= "https://protected-dawn-04416.herokuapp.com">ProdBox</a>
 #### 2. Quiz Application - <a href="https://sidhaantthakker.com/QuizProject/index.html">QuizMaster</a>
+
 </details>
 
 ## Competitive Coding
