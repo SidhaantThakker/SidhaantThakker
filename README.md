@@ -6,16 +6,16 @@
 #### You can find my website here - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
 
 ## Web Development
-### I] Tools & Skills
+### --Tools & Skills
 ![](/images/mongodb-icon.svg)
 ![](/images/reactjs-icon.svg)
 ![](/images/nodejs-icon.svg)
 ![](/images/angular-icon.svg)
 
-### II] Completed Projects
+### --Completed Projects
 #### 1. Product Management App - <a href=https://protected-dawn-04416.herokuapp.com">ProdBox</a>
 
-### III] Projects Underway
+### --Projects Underway
 #### 1. Medal Storage Application
 #### 2. Task Tracker 
 #### 3. Finance Manager
