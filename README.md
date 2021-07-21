@@ -14,6 +14,7 @@
 
 ### • Completed Projects
 #### 1. Product Management App - <a href= "https://protected-dawn-04416.herokuapp.com">ProdBox</a>
+#### 2. Quiz Application - <a href="https://sidhaantthakker.com/QuizProject/index.html">QuizMaster</a>
 
 ### • Projects Underway
 #### 1. Medal Storage Application
