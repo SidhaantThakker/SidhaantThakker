@@ -9,8 +9,8 @@
 • 📊 Data Science <br>
 
 ### 🌱 I am currently learning -
-• NextJS <br>
-• Arduino <br>
+• 👓 NextJS <br>
+• ⚙️ Arduino <br>
 
 
 
