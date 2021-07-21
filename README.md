@@ -12,14 +12,9 @@
 ![](/images/nodejs-icon.svg)
 ![](/images/angular-icon.svg)
 
-### • Completed Projects
+### • Projects
 #### 1. Product Management App - <a href= "https://protected-dawn-04416.herokuapp.com">ProdBox</a>
 #### 2. Quiz Application - <a href="https://sidhaantthakker.com/QuizProject/index.html">QuizMaster</a>
-
-### • Projects Underway
-#### 1. Medal Storage Application
-#### 2. Task Tracker 
-#### 3. Finance Manager
 
 ## Competitive Coding
 ### • Tools & Skills
@@ -27,14 +22,14 @@
 ![](/images/cpp-icon.svg)
 ![](/images/java-icon.svg)
 
-### • Follow My Competitive Coding Journey - <a href="https://github.com/SidhaantThakker/CompetitiveProgramming">Competitive Coding</a>
+### • My Journey - <a href="https://github.com/SidhaantThakker/CompetitiveProgramming">Competitive Coding</a>
 
 ## Data Science
 ### • Tools & Skills
 ![](/images/python-icon.svg)
 ![](/images/pytorch-icon.svg)
 
-### • Completed Projects
+### • Projects
 #### 1. Facial Recognition - <a href="https://jovian.ai/f20201047/my-course-project/v/85">Olivetti Faces CNN</a>
 
 ## Electronics
