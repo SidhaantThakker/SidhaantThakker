@@ -15,7 +15,7 @@
 
 
 ### Developer Spotlight 
-Just me and few friends you might like to check out!
+Just me and few friends you might like to check out! <br>
 • <a href="https://www.sidhaantthakker.com" target="_blank">Sidhaant Thakker</a> <br>
 • <a href="https://sohamroy.ml/" target="_blank">Soham Roy</a> <br>
 • <a href="https://yashburshe.com/" target="_blank">Yash Burshe</a> <br>
