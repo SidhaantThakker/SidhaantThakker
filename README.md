@@ -12,9 +12,6 @@
 • 👓 NextJS <br>
 • ⚙️ Arduino <br>
 
-<img src="/images/my-photo.jpg" height= "300px">
-
-
 
 ### Developer Spotlight! 
 Just me and few friends you might like to check out! <br>
