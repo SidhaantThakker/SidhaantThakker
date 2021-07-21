@@ -6,7 +6,6 @@ I am as aspiring web developer adn electronics enthusiast! I also enjoy explroin
 ## Web Development
 ### Tools :
 ![](/images/mongodb-icon.svg)
-<img src="/images/expressjs-icon.png" width="64px" height="64px" />
 ![](/images/reactjs-icon.svg)
 ![](/images/nodejs-icon.svg)
 ![](/images/angular-icon.svg)
