@@ -14,7 +14,14 @@
 
 
 
-#### My Website - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
+### Developer Spotlight 
+Just me and few friends you might like to check out!
+• <a href="https://www.sidhaantthakker.com" target="_blank">Sidhaant Thakker</a>
+• <a href="https://sohamroy.ml/" target="_blank">Soham Roy</a>
+• <a href="https://yashburshe.com/" target="_blank">Yash Burshe</a>
+• <a href="https://arihantbansal.github.io/" target="_blank">Arihant Bansal</a>
+• <a href="https://toshanluktuke.com/" target="_blank">Toshan Luktuke</a>
+• <a href="https://www.singhakshat.com/blog/" target="_blank">Akshat Singh</a>
 
 
 ## My Github Statistics
