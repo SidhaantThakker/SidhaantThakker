@@ -1,11 +1,12 @@
 ## Hello there!
 
 ### Welcome to my GitHub profile!
+
 ### I am interested in - 
-#### 🌐 Web Development
-#### 🤖 Electronics
-#### 🖥️ Competitive Programming
-#### 📊 Data Science
+• 🌐 Web Development
+• 🤖 Electronics
+• 🖥️ Competitive Programming
+• 📊 Data Science
 
 
 #### You can find my website here - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
