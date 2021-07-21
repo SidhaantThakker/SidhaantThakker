@@ -41,7 +41,7 @@
 ### • Tools & Skills
 ![](/images/arduino-icon.svg)
 
-### Projects Coming Soon!
+### • Projects Coming Soon!
 
 
 ## My Github Statistics
