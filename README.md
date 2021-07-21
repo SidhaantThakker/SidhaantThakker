@@ -37,6 +37,12 @@
 ### • Completed Projects
 #### 1. Facial Recognition - <a href="https://jovian.ai/f20201047/my-course-project/v/85">Olivetti Faces CNN</a>
 
+## Electronics
+### • Tools & Skills
+![](/images/arduino-icon.svg)
+
+### Projects Coming Soon!
+
 
 ## My Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
