@@ -26,6 +26,8 @@
 ![](/images/cpp-icon.svg)
 ![](/images/java-icon.svg)
 
+### • Follow My Competitive Coding Journey - <a href="https://github.com/SidhaantThakker/CompetitiveProgramming">Competitive Coding</a>
+
 ## Data Science
 ### • Tools & Skills
 ![](/images/python-icon.svg)
