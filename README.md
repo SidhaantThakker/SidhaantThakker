@@ -2,14 +2,19 @@
 
 ### Welcome to my GitHub profile!
 
-### I am interested in - 
+#### ❄️ I am interested in - 
 • 🌐 Web Development <br>
 • 🤖 Electronics <br>
 • 🖥️ Competitive Programming <br>
 • 📊 Data Science <br>
 
+#### 🌱 I am currently learning -
+• NextJS <br>
+• Arduino <br>
 
-#### You can find my website here - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
+
+
+#### My Website - <a href="https://www.sidhaantthakker.com" target="_blank">https://www.sidhaantthakker.com</a>
 
 
 ## My Github Statistics
