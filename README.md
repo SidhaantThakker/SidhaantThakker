@@ -24,6 +24,7 @@ Just me and few friends you might like to check out! <br>
 
 
 ## My Github Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Web Development
