@@ -24,8 +24,8 @@ Just me and few friends you might like to check out! <br>
 
 
 ## My Github Statistics
-![Sidhaant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhaantthakker&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+![Sidhaant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhaantthakker&show_icons=true&theme=radical&height=300)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&height=300)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Web Development
 ### • Tools & Skills
